@@ -1,0 +1,5 @@
+#!8-Aug-2017
+1)  now my gtftools.py could pick out all 5'ss and 3'ss; theorily the intron also could be pick out from gtf file. 
+    but for the gtf file is very big, it takes long time to finish a project.
+    i'm refining the program for got all exons, introns, junctions, fusion junctions from a gtf.
+    
